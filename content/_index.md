@@ -17,14 +17,16 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/Curriculum_Vitae.pdf
       headings:
         about: ''
         education: ''
         interests: ''
     design:
       # Apply a gradient background
-      css_class: hbx-bg-gradient
+      css_class: dark
+      background:
+        color: black
       # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
