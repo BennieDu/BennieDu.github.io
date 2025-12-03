@@ -64,15 +64,15 @@ education:
     date_start: 2016-09-01
     date_end: 2019-07-31
     summary: |
-      GPA: ???/4.0
+      GPA: 3.4/4.0
 
   - area: BS Mathematics
-    institution: MIT
+    institution: Tsinghua University
     icon: ""
     date_start: 2012-09-01
     date_end: 2016-07-31
     summary: |
-      GPA: ???/4.0
+      GPA: 3.4/4.0
 
 
 work:
