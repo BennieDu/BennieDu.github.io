@@ -9,7 +9,7 @@ publication_types:
 - manuscript
 publication: '*arXiv*'
 #  
-abstract: We give a complete criterion for when two hyperbolic automorphisms of a tree generate a free, discrete subgroup. The decision depends only on three geometric invariants: the translation lengths of the generators and the length of overlap of their axes. This data is organized using the continued-fraction expansion of the translation-length ratio. We extend the result to weighted trees, allowing arbitrary positive real translation lengths under local finiteness. In the irrational case, the exceptional configurations are shown to correspond precisely to the gap lengths in the three-gap theorem.
+abstract: We give a complete criterion for when two hyperbolic automorphisms of a tree generate a free, discrete subgroup. The decision depends only on three geometric invariants, the translation lengths of the generators and the length of overlap of their axes. This data is organized using the continued-fraction expansion of the translation-length ratio. We extend the result to weighted trees, allowing arbitrary positive real translation lengths under local finiteness. In the irrational case, the exceptional configurations are shown to correspond precisely to the gap lengths in the three-gap theorem.
 # 
 links:
 - name: arXiv
