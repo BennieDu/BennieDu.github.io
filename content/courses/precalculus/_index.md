@@ -6,7 +6,7 @@ type: docs
 
 tags:
   - Precalculus
-  - Mathematics
+  - Course
 
 content_meta:
   content_type: 'Course'

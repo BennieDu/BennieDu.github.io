@@ -6,7 +6,7 @@ type: docs
 
 tags:
   - Complex Variables
-  - Mathematics
+  - Course
 
 content_meta:
   content_type: 'Course'
