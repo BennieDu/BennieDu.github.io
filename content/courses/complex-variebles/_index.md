@@ -1,6 +1,6 @@
 ---
 linkTitle: Complex Variables
-title: MATH 4150: Complex Variables
+title: MATH 4150 - Complex Variables
 date: 2025-08-10
 type: docs
 

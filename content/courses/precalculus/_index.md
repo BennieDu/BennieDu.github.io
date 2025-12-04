@@ -1,6 +1,6 @@
 ---
 linkTitle: Precalculus
-title: MATH 1113: Precalculus
+title: MATH 1113 - Precalculus
 date: 2025-08-10
 type: docs
 
