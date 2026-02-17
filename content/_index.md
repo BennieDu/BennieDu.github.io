@@ -74,9 +74,9 @@ sections:
     design:
       view: card
   - block: collection
-    id: news
+    id: blog
     content:
-      title: Recent News
+      title: My Blog
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...

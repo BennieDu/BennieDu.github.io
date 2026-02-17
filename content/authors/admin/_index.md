@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yukun Du
+title: Yukun (Bennie) Du
 
 # Name pronunciation (optional)
 name_pronunciation: 'YOO-kwen DOO'
