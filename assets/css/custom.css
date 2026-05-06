@@ -1,10 +1,27 @@
 /* This targets the exact classes you found and forces a new color */
+/*div[class*="from-blue-500/20"] {
+/*    background-image: none !important;
+/*    background-color: #2d3436 !important; /* A neutral dark gray */
+/*}
+/*
+/* This hides the "image" icon inside that box */
+/*div[class*="from-blue-500/20"] svg {
+/*    display: none !important;
+/*}
+/* 1. Change the main background colors */
 div[class*="from-blue-500/20"] {
-    background-image: none !important;
-    background-color: #2d3436 !important; /* A neutral dark gray */
+    --tw-gradient-from: #2d3436 !important; /* Your desired dark color */
+    --tw-gradient-to: #1a1a1a !important;   /* A slightly darker shade */
 }
 
-/* This hides the "image" icon inside that box */
+/* 2. Change the hover colors (optional) */
+div[class*="hover:from-blue-500/30"]:hover {
+    --tw-gradient-from: #3d4446 !important; 
+    --tw-gradient-to: #2a2a2a !important;
+}
+
+/* 3. Ensure the icon remains visible */
 div[class*="from-blue-500/20"] svg {
-    display: none !important;
+    display: block !important;
+    opacity: 0.6 !important;
 }
