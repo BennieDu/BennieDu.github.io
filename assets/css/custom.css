@@ -1,8 +1,8 @@
 /* This targets the exact classes you found and forces a new color */
 div[class*="from-blue-500/20"] {
     background-image: none !important;
-    background-color: #c75b70 !important; /* A neutral dark gray */
-    background: #c75b70 !important;
+    background-color: #c75b71 !important;
+    background: #c75b71 !important;
 }
 
 /* This hides the "image" icon inside that box */
