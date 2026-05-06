@@ -1,0 +1,10 @@
+/* This targets the exact classes you found and forces a new color */
+div[class*="from-blue-500/20"] {
+    background-image: none !important;
+    background-color: #2d3436 !important; /* A neutral dark gray */
+}
+
+/* This hides the "image" icon inside that box */
+div[class*="from-blue-500/20"] svg {
+    display: none !important;
+}
