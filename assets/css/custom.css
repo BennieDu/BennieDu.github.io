@@ -2,6 +2,7 @@
 div[class*="from-blue-500/20"] {
     background-image: none !important;
     background-color: #2d3436 !important; /* A neutral dark gray */
+    background: #2d3436 !important;
 }
 
 /* This hides the "image" icon inside that box */
