@@ -93,11 +93,11 @@ skills:
       - name: LaTeX
         description: ''
         percent: 100
-        icon: cloud
+        icon: pencil-square
       - name: Mathematica
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: calculator
       - name: Python
         description: ''
         percent: 60
@@ -113,7 +113,7 @@ skills:
       - name: Video Games
         description: ''
         percent: 70
-        icon: cpu-chip
+        icon: computer-desktop
       - name: Manga & Anime
         description: ''
         percent: 80
