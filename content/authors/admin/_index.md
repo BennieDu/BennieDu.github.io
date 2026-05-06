@@ -3,7 +3,7 @@
 title: Yukun (Bennie) Du
 
 # Name pronunciation (optional)
-name_pronunciation: 'YOO-kwen        DOO'
+name_pronunciation: 'YOO-kwen (Bennie) DOO'
 
 # Full name (for SEO)
 first_name: Yukun
