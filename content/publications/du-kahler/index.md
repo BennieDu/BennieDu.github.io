@@ -1,7 +1,9 @@
 ---
 title: Profinite Non-Rigidity of Arithmetic Lattices and the {K}\"ahler Property
 authors:
-- Y. Du, F. Hao, and K. Zhu
+- Y. Du
+- F. Hao
+- K. Zhu
 date: '2026-09-01'
 publishDate: '2026-09-01T02:20:39.516594Z'
 publication_types:
