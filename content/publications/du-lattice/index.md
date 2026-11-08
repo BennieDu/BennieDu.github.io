@@ -6,4 +6,6 @@ date: '2026-11-07'
 publishDate: '2026-11-07T02:20:39.523382Z'
 publication_types:
 - manuscript
+# Display this page in the Featured widget?
+featured: true
 ---
