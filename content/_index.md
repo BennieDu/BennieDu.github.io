@@ -47,6 +47,7 @@ sections:
     id: papers
     content:
       title: Featured Publications
+      count: 6
       filters:
         folders:
           - publications
